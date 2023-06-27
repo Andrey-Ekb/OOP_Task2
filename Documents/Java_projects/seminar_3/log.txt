@@ -1,0 +1,26 @@
+июн. 19, 2023 8:40:10 PM seminar_3.lg main
+INFO: element: 8
+июн. 19, 2023 8:40:10 PM seminar_3.lg main
+INFO: element: 8
+июн. 19, 2023 8:40:10 PM seminar_3.lg main
+INFO: element: 1
+июн. 19, 2023 8:40:10 PM seminar_3.lg main
+INFO: element: 6
+июн. 19, 2023 8:40:10 PM seminar_3.lg main
+INFO: element: 4
+июн. 19, 2023 8:40:10 PM seminar_3.lg main
+INFO: element: 5
+июн. 19, 2023 8:40:11 PM seminar_3.lg main
+INFO: element: 1
+июн. 19, 2023 8:40:11 PM seminar_3.lg main
+INFO: element: 2
+июн. 19, 2023 8:40:11 PM seminar_3.lg main
+INFO: element: 4
+июн. 19, 2023 8:40:12 PM seminar_3.lg main
+INFO: element: 8
+июн. 19, 2023 8:40:12 PM seminar_3.lg main
+WARNING: logger OFF
+июн. 19, 2023 8:40:12 PM seminar_3.lg main
+INFO: text
+июн. 19, 2023 8:40:12 PM seminar_3.lg main
+WARNING: logsPath
